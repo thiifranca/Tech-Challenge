@@ -1,6 +1,6 @@
 # Tech Challenge
 
-Este repositório contém o notebook **Tech-Challenge.ipynb**, que aborda uma solução prática para um desafio técnico.
+Este repositório contém o notebook **Tech-Challenge.ipynb**, que aborda uma solução prática para o desafio do Tech Challenge - Fase 3.
 
 ## 📘 Descrição do Projeto
 
