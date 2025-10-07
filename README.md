@@ -1,15 +1,19 @@
-# Tech Challenge
+# 🤖 Fine-Tuning GPT-2 com Dataset Amazon-1.3M
 
-Este repositório contém o notebook **Tech-Challenge.ipynb**, que aborda uma solução prática para o desafio do Tech Challenge - Fase 3.
+Projeto de Fine-Tuning do modelo GPT-2 para responder perguntas sobre produtos da Amazon, utilizando o dataset LF-Amazon-1.3M.
 
-## 📘 Descrição do Projeto
+## 📋 Descrição
 
-O notebook contém o código e a documentação para a resolução do desafio proposto, abordando etapas como:
-- Análise exploratória de dados (EDA)
-- Pré-processamento e limpeza de dados
-- Modelagem e avaliação de desempenho
-- Visualizações e interpretações dos resultados
+Este projeto treina o modelo GPT-2 da Hugging Face para gerar respostas contextualizadas sobre produtos Amazon. O modelo aprende a responder perguntas no formato: "O que é [produto]?" com base em títulos e descrições de produtos reais.
 
+## 🎯 Objetivo
+
+Criar um modelo de linguagem especializado em produtos Amazon, capaz de:
+
+- Responder perguntas sobre características de produtos
+- Gerar descrições contextualizadas
+- Demonstrar conhecimento específico do domínio e-commerce
+- 
 ## 🚀 Tecnologias Utilizadas
 
 - Python 3.x  
