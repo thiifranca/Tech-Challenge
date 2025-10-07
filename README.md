@@ -105,7 +105,7 @@ Tech Challenge Fase 2
 
 ## ✍️ Integrantes do Grupo
 
-João Pedro Noleto – RA: 363789
-Danilo Almeida de Sousa – RA: 362639
-Allan dos Santos – RA: 362388
-Thiago Silva França – RA: 361249
+**João Pedro Noleto – RA: 363789**
+**Danilo Almeida de Sousa – RA: 362639**
+**Allan dos Santos – RA: 362388**
+**Thiago Silva França – RA: 361249**
